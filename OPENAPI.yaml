@@ -4,6 +4,10 @@ info:
   version: 1.0.0
   description: API for managing users in DynamoDB
 
+servers:
+  - url: https://user-api-rouge.vercel.app
+    description: Development server on vercel
+
 paths:
   /:
     get:
