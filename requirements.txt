@@ -1,5 +1,4 @@
 fastapi
 uvicorn
 boto3
-uuid
-dotenv
+python-dotenv
